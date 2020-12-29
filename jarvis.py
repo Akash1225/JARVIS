@@ -72,10 +72,10 @@ class Jarvis:
             webbrowser.open("https://www.google.com")
 
         if "open github" in text:
-            webbrowser.open("https://github.com/")
+            webbrowser.open("https://www.github.com/")
 
         if "open stackoverflow" in text:
-            webbrowser.open("https://stackoverflow.com/")
+            webbrowser.open("https://www.stackoverflow.com/")
 
         if "open sanskriti" in text:
             webbrowser.open("www.sanskriti.edu.in")
